@@ -1,0 +1,5 @@
+#! /usr/bin/python
+import uso_modulo
+
+if __name__ == '__main__':
+print modulo.aproximacion(15)

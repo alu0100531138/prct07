@@ -1,0 +1,5 @@
+#! /usr/bin/python
+from uso_modulo import *
+import uso_modulo
+
+if __name__ == '__main__':
